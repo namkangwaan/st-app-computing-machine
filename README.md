@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# st-app-computing-machine
 
 Description of the app ...
 
